@@ -1,6 +1,8 @@
 # Znalezione błędy
-To miejsce, w którym zamieszczam błędy lub niespójności, które napotkałem podczas codziennego korzystania z dostępnych dla mnie usług. Część z nich z pewnością może być już naprawiona, część po jakiś czasie zdeaktualizuje się. 
-Repozytorium służy mi do ćwiczeń z zakresu testowania oprogramowania i aplikacji.
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://stand-with-ukraine.pp.ua)
+
+To repozytorium, w którym zamieszczam błędy lub niespójności, które napotkałem podczas codziennego korzystania z dostępnych dla mnie usług. Część z nich z pewnością może być już naprawiona, część po jakiś czasie zdeaktualizuje się. 
+Repozytorium służy mi do ćwiczeń z zakresu testowania oprogramowania.
 
 ## Spis treści
 - [Strona kredytu w mBank](#strona-kredytu-w-mbank)

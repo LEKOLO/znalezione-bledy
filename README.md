@@ -75,7 +75,7 @@ przejdź do kolejnej zakładki.
 ![mlinia info](zdjecia/ZUS_2.jpg)
 
 Oczekiwany rezultat:
-Zatwierdzenie prawidłowego numeru dowodu.
+Zatwierdzenie prawidłowego numeru dowodu w formularzu.
 
 
 Aktualny rezultat:

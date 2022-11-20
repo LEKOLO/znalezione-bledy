@@ -61,6 +61,8 @@ Tytuł: Wypełnianie formularza ZZA do ZUS - kopiowanie nr dowodu osobistego
 Warunki wstępne:
 Wejdź na stronę pue.zus.pl, zaloguj się i przejdź do zakładki ePłatnik. W zakładce ePłatnik kliknij “Zgłoś ubezpieczonego” w lewym, górnym roku menu. Wyświetli się okno kreatora dodawania ubezpieczonego dla danego płatnika.
 
+![mlinia info](zdjecia/ZUS_1.jpg)
+
 Kroki
 Logowanie
 Dodaj ubezpieczonego
@@ -70,7 +72,7 @@ w polu “typ dokumentu” wybierz “dowód osobisty”
 skopiuj dane dowodu z innego miejsca w formacie “ABC 123456” i wklej w polu seria i numer dokumentu 
 przejdź do kolejnej zakładki.
 
-![mlinia info](ZUS_1.jpg)
+
 
 Oczekiwany rezultat:
 Zatwierdzenie prawidłowego numeru dowodu.

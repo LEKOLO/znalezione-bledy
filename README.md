@@ -70,6 +70,8 @@ w polu “typ dokumentu” wybierz “dowód osobisty”
 skopiuj dane dowodu z innego miejsca w formacie “ABC 123456” i wklej w polu seria i numer dokumentu 
 przejdź do kolejnej zakładki.
 
+![mlinia info](ZUS_1.jpg)
+
 Oczekiwany rezultat:
 Zatwierdzenie prawidłowego numeru dowodu.
 
